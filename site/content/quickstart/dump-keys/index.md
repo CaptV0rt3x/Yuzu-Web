@@ -18,6 +18,7 @@ description: A guide designed to get you started with yuzu quickly.
 * [Rebooting the Switch Back to its Original State](/quickstart/reboot-to-stock/)
 * [Running yuzu](/quickstart/running-yuzu/)
 * [Mounting the microSD card to your computer in Hekate](/quickstart/hekate-ums/)
+
 ## Dumping Decryption Keys
 
 We will now dump your `prod.keys` and `title.keys` for decryption of your game files.

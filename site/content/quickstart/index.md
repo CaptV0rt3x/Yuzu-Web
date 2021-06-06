@@ -7,7 +7,7 @@ description: A guide designed to get you started with yuzu quickly.
 
 * [**Introduction**](/quickstart/)
 	- [Hardware Requirements](#hardware-requirements)
-	- [Downloading & Installing yuzu](/quickstart/downloading/)
+	- [Downloading & Installing yuzu](#downloading-and-installing-yuzu)
 * [Prerequisites](/quickstart/prerequisites/)
 * [Preparing the microSD Card](/quickstart/prepare-sd-card/)
 * [Booting into RCM](/quickstart/boot-to-rcm/)
@@ -49,13 +49,13 @@ But first, we must determine whether your computer meets the following hardware 
 Our recommended specifications don't guarantee perfect performance in most games, but rather strive to provide a cost effective recommendation while still considering performance.
 
 <br>
-{{< table "table is-bordered has-background-dark" >}}
+
 | Component 	| Minimum                                                                               			| Recommended                                                                                  			|
 |-----------	|---------------------------------------------------------------------------------------			|----------------------------------------------------------------------------------------------			|
 | CPU       	| Intel Core i5-4430 <br> or <br>AMD Ryzen 3 1200                                           		| Intel Core i5-10400 <br> or <br>AMD Ryzen 5 3600                                                 		|
 | GPU       	| Intel HD Graphics 520 <br> or <br>NVIDIA GeForce GT 1030 2GB<br> or <br>AMD Radeon R7 240 2GB 	| Intel UHD Graphics 630 <br> or <br>NVIDIA GeForce GTX 1650 4GB <br> or <br>AMD Radeon RX Vega 56 8GB 	|
 | RAM       	| 8 GB                                                                                  			| 16 GB                                                                                        			|
-{{< /table 	>}}
+
 <br>
 <article class="message is-link">
   <div class="message-header">
@@ -85,5 +85,8 @@ Our recommended specifications don't guarantee perfect performance in most games
 	<li>Laptop CPUs will not reach the same performance as their desktop counterparts due to thermal, power, and technical limitations.</li>
   </div>
 </article>
+<br>
 
-[Continue 2 Step 1](/quickstart/downloading/)
+## Downloading and Installing yuzu
+
+{{< youtube j0fXerrGjF4 >}}

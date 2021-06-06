@@ -89,4 +89,5 @@ Our recommended specifications don't guarantee perfect performance in most games
 
 ## Downloading and Installing yuzu
 
+<br>
 {{< youtube j0fXerrGjF4 >}}
